@@ -1,0 +1,10 @@
+C:\Users\CODE-DEV-11.CODEN-APP\source\repos\CursoDotnet\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\CODE-DEV-11.CODEN-APP\source\repos\CursoDotnet\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\CODE-DEV-11.CODEN-APP\source\repos\CursoDotnet\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\CODE-DEV-11.CODEN-APP\source\repos\CursoDotnet\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\Users\CODE-DEV-11.CODEN-APP\source\repos\CursoDotnet\src\Api.Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CODE-DEV-11.CODEN-APP\source\repos\CursoDotnet\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\CODE-DEV-11.CODEN-APP\source\repos\CursoDotnet\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\CODE-DEV-11.CODEN-APP\source\repos\CursoDotnet\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\CODE-DEV-11.CODEN-APP\source\repos\CursoDotnet\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\CODE-DEV-11.CODEN-APP\source\repos\CursoDotnet\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wMezivvo8hWbD+nlZ0Mywtevg5HRWae0Os2whD40HtfjhFNtjFvpmPKYuYh5b3keqhLH0MN1XKt90HQDpClJAQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\CODE-DEV-11.CODEN-APP\\source\\repos\\CursoDotnet\\src\\Api.Application\\Api.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CODE-DEV-11.CODEN-APP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}
