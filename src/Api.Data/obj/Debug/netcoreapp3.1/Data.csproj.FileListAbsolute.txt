@@ -8,3 +8,9 @@ C:\Users\CODE-DEV-11.CODEN-APP\source\repos\CursoDotnet\src\Api.Data\obj\Debug\n
 C:\Users\CODE-DEV-11.CODEN-APP\source\repos\CursoDotnet\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
 C:\Users\CODE-DEV-11.CODEN-APP\source\repos\CursoDotnet\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
 C:\Users\CODE-DEV-11.CODEN-APP\source\repos\CursoDotnet\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\CODE-DEV-11.CODEN-APP\source\repos\CursoDotnet\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\CODE-DEV-11.CODEN-APP\source\repos\CursoDotnet\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\CODE-DEV-11.CODEN-APP\source\repos\CursoDotnet\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\CODE-DEV-11.CODEN-APP\source\repos\CursoDotnet\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\CODE-DEV-11.CODEN-APP\source\repos\CursoDotnet\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\CODE-DEV-11.CODEN-APP\source\repos\CursoDotnet\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
