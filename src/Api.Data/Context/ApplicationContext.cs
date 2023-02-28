@@ -8,13 +8,13 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Api.Data.Context
 {
-    public class Context : DbContext
+    public class ApplicationContext : DbContext
     {
         //segundo passo é criar o DbSet
         //terceiro passo é criar um Mapping
         DbSet<UserEntity> Users { get; set; }
 
-        public Context(DbContextOptions<Context> options) : base(options) { }
+        public ApplicationContext(DbContextOptions<ApplicationContext> options) : base(options) { }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder){
             base.OnModelCreating(modelBuilder);
