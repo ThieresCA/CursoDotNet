@@ -12,6 +12,6 @@ namespace Api.Domain.Repository
         Task<T> UpdateAsync(T item);
         Task<bool> DeleteAsync(Guid Id);
         Task<T> SelectAsync(Guid id);
-        Task<IEnumerable<T>> SelectAsync();
+        Task<IEnumerable<T>> SelectAllAsync();
     }
 }

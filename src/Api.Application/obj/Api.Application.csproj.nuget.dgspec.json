@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\CODE-DEV-11.CODEN-APP\\source\\repos\\CursoDotnet\\src\\Api.Application\\Api.Application.csproj": {}
+    "C:\\Users\\CODE-DEV-11.CODEN-APP\\source\\repos\\CursoDotnet\\src\\Api.Application\\Api.Application.csproj": {}
   },
   "projects": {
-    "c:\\Users\\CODE-DEV-11.CODEN-APP\\source\\repos\\CursoDotnet\\src\\Api.Application\\Api.Application.csproj": {
+    "C:\\Users\\CODE-DEV-11.CODEN-APP\\source\\repos\\CursoDotnet\\src\\Api.Application\\Api.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\CODE-DEV-11.CODEN-APP\\source\\repos\\CursoDotnet\\src\\Api.Application\\Api.Application.csproj",
+        "projectUniqueName": "C:\\Users\\CODE-DEV-11.CODEN-APP\\source\\repos\\CursoDotnet\\src\\Api.Application\\Api.Application.csproj",
         "projectName": "Api.Application",
-        "projectPath": "c:\\Users\\CODE-DEV-11.CODEN-APP\\source\\repos\\CursoDotnet\\src\\Api.Application\\Api.Application.csproj",
+        "projectPath": "C:\\Users\\CODE-DEV-11.CODEN-APP\\source\\repos\\CursoDotnet\\src\\Api.Application\\Api.Application.csproj",
         "packagesPath": "C:\\Users\\CODE-DEV-11.CODEN-APP\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\CODE-DEV-11.CODEN-APP\\source\\repos\\CursoDotnet\\src\\Api.Application\\obj\\",
+        "outputPath": "C:\\Users\\CODE-DEV-11.CODEN-APP\\source\\repos\\CursoDotnet\\src\\Api.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

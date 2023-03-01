@@ -5973,11 +5973,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\CODE-DEV-11.CODEN-APP\\source\\repos\\CursoDotnet\\src\\Api.Data\\Data.csproj",
+      "projectUniqueName": "C:\\Users\\CODE-DEV-11.CODEN-APP\\source\\repos\\CursoDotnet\\src\\Api.Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "c:\\Users\\CODE-DEV-11.CODEN-APP\\source\\repos\\CursoDotnet\\src\\Api.Data\\Data.csproj",
+      "projectPath": "C:\\Users\\CODE-DEV-11.CODEN-APP\\source\\repos\\CursoDotnet\\src\\Api.Data\\Data.csproj",
       "packagesPath": "C:\\Users\\CODE-DEV-11.CODEN-APP\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\CODE-DEV-11.CODEN-APP\\source\\repos\\CursoDotnet\\src\\Api.Data\\obj\\",
+      "outputPath": "C:\\Users\\CODE-DEV-11.CODEN-APP\\source\\repos\\CursoDotnet\\src\\Api.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5997,8 +5997,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "c:\\Users\\CODE-DEV-11.CODEN-APP\\source\\repos\\CursoDotnet\\src\\Api.Domain\\Domain.csproj": {
-              "projectPath": "c:\\Users\\CODE-DEV-11.CODEN-APP\\source\\repos\\CursoDotnet\\src\\Api.Domain\\Domain.csproj"
+            "C:\\Users\\CODE-DEV-11.CODEN-APP\\source\\repos\\CursoDotnet\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\CODE-DEV-11.CODEN-APP\\source\\repos\\CursoDotnet\\src\\Api.Domain\\Domain.csproj"
             }
           }
         }

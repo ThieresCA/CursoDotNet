@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sLMYB8s1C+WG/4pBq8dqzX+kRI1fflzxhzSTzz0TTSe+FjCR0T8DCKnavSLfyJ7kDCxD3zv3F6u0wh4F0Hu63g==",
+  "dgSpecHash": "meOr4s39jPYqvvdlpCPvZh3DhK7mAZbaDo5f4wng8j2rYo8/szhmrdoaERgWQL4QOMKFGAMpyKPTnq5AOhfVYQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\CODE-DEV-11.CODEN-APP\\source\\repos\\CursoDotnet\\src\\Api.CrossCutting\\CrossCutting.csproj",
+  "projectFilePath": "C:\\Users\\CODE-DEV-11.CODEN-APP\\source\\repos\\CursoDotnet\\src\\Api.CrossCutting\\CrossCutting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

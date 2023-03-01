@@ -11,7 +11,7 @@ namespace Api.Domain.Entities
         [Key]
         public Guid Id { get; set; }
         private DateTime? _createAt;
-        private DateTime? MyProperty
+        public DateTime? CreateAt
         {
             get { return _createAt; }
             set { _createAt = (value == null ? DateTime.UtcNow : value); }
