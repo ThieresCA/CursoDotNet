@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Data.Migrations
 {
-    [DbContext(typeof(System.AppContext))]
+    [DbContext(typeof(ApplicationContext))]
     [Migration("20230228191136_UserMigration")]
     partial class UserMigration
     {

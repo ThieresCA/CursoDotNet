@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X9OtNf1l317IsnLoQ3bizuVONHHzNd/LCM88ZzXg8nmvnCwZsanIfd48OihMN9l84UVUF0/h2fsHNjRywY/wJw==",
+  "dgSpecHash": "QcRTiESdKcTK9rBTV2Ql+c2tNNGKxtlkrcKACyHL1HCWCHEBXi+iF1DXSn09/G2QhlC0vG+W/ryLzguFXTW7+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CODE-DEV-11.CODEN-APP\\source\\repos\\CursoDotnet\\src\\Api.Data\\Data.csproj",
+  "projectFilePath": "c:\\Users\\CODE-DEV-11.CODEN-APP\\source\\repos\\CursoDotnet\\src\\Api.Data\\Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CODE-DEV-11.CODEN-APP\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\CODE-DEV-11.CODEN-APP\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
